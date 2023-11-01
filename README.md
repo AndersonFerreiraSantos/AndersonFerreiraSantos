@@ -1,4 +1,4 @@
-## Oie, me chamo Anderson Ferreira e sou estudande de Eng. de Software.
+## In progress.
 
 <div align="center">
   <a href="https://github.com/AndersonFerreiraSantos">
