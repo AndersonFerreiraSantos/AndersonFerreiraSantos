@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndersonFerreiraSantos/AndersonFerreiraSantos/output/snake.svg" alt="Snake animation" />
+<img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
 ###
 
