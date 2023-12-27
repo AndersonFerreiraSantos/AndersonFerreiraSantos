@@ -24,8 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-(https://AndersonFerreiraSantos.github.io/reactjs-portfolio/)
 ###
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/YagoAyala/count.svg" />
+ </p>
 
 
 ###
