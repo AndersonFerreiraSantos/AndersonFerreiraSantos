@@ -27,7 +27,7 @@
 ###
 
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/YagoAyala/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/AndersonFerreiraSantos/count.svg" />
  </p>
 
 
