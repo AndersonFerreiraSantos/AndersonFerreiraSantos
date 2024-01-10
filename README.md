@@ -1,5 +1,5 @@
 
-Programação orientada a gambierra.
+Programação orientada a gambiarra.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AndersonFerreiraSantos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
