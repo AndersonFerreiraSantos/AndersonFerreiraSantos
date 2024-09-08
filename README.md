@@ -1,4 +1,3 @@
-@ -1,37 +1 @@
 
 Programação orientada a gambiarra.
 
